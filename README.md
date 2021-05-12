@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/11171872/117901947-6674b680-b307-11eb-8012-3f9eaa9a413c.png" width="275" />
+</div>
+
+<div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=shumatsumoto&theme=vue" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=shumatsumoto&theme=vue" width="600" />
   </a>
