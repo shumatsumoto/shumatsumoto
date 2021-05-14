@@ -18,7 +18,7 @@
 </div>
 
 
-<h2 align="center">frontend developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 <h3 align="center">Languages</h3>
 <div align="center">
