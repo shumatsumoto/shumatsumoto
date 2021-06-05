@@ -40,6 +40,9 @@
   <a href="https://nodejs.org/ja/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40">
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40">
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
   </a>
