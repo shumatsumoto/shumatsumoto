@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/11171872/117901947-6674b680-b307-11eb-8012-3f9eaa9a413c.png" width="210" />
 </div>
 
-<h2 align="center">Frontend Developer</h2>
+<h2 align="center">Front-end Engineer</h2>
 
 <h3 align="center">Languages</h3>
 <div align="center">
