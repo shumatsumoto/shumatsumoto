@@ -2,15 +2,6 @@
   <img src="https://user-images.githubusercontent.com/11171872/117901947-6674b680-b307-11eb-8012-3f9eaa9a413c.png" width="210" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img src="https://raw.githubusercontent.com/shumatsumoto/shumatsumoto/master/profile-summary-card-output/vue/1-repos-per-language.svg" width="300" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img src="https://raw.githubusercontent.com/shumatsumoto/shumatsumoto/master/profile-summary-card-output/vue/2-most-commit-language.svg" width="300" />
-  </a>
-</div>
-
 <h2 align="center">Frontend Developer</h2>
 
 <h3 align="center">Languages</h3>
@@ -52,5 +43,13 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40">
+  </a>
+</div>
+
+***
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+    <img src="https://raw.githubusercontent.com/shumatsumoto/shumatsumoto/master/profile-summary-card-output/vue/1-repos-per-language.svg" width="350" />
   </a>
 </div>
