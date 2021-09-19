@@ -18,7 +18,7 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25">
   </a>
-  <a>&nbsp;&nbsp;</a>
+  <a>&nbsp;&nbsp;&nbsp;</a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="25" height="25">
   </a>
@@ -31,7 +31,7 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="25" height="25">
   </a>
-  <a>&nbsp;&nbsp;</a>
+  <a>&nbsp;&nbsp;&nbsp;</a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="25" height="25">
   </a>
