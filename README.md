@@ -46,7 +46,7 @@
   </a>
 </div>
 
-<h3 align="center">Activity history</h3>
+<h3 align="center">Activity</h3>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img src="https://raw.githubusercontent.com/shumatsumoto/shumatsumoto/master/profile-summary-card-output/vue/1-repos-per-language.svg" width="280" />
