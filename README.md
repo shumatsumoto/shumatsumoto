@@ -2,8 +2,6 @@
   <img src="https://user-images.githubusercontent.com/11171872/163743101-ed021800-834f-4167-a858-b62e0aa39df6.png" width="400" />
 </div>
 
-<h2 align="center">Front-end</h2>
-
 <h3 align="center">Language / Framework</h3>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -19,9 +17,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25">
   </a>
   <a>&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="25" height="25">
-  </a>
   <a href="https://nuxtjs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="25" height="25">
   </a>
