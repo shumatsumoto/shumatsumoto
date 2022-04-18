@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/11171872/117901947-6674b680-b307-11eb-8012-3f9eaa9a413c.png" width="180" />
+  <img src="https://user-images.githubusercontent.com/11171872/163743101-ed021800-834f-4167-a858-b62e0aa39df6.png" width="400" />
 </div>
 
-<h2 align="center">Front-end Engineer</h2>
+<h2 align="center">Front-end</h2>
 
 <h3 align="center">Language / Framework</h3>
 <div align="center">
