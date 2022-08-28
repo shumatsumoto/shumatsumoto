@@ -17,11 +17,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25">
   </a>
   <a>&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="25" height="25">
-  </a>
   <a href="https://nodejs.org/ja/" target="_blank">
     <img src="https://user-images.githubusercontent.com/11171872/182286544-bc445448-284c-451e-aa73-ed165c9b0d64.png" alt="nodejs" width="25" height="25">
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="25" height="25">
   </a>
   <a href="https://rubyonrails.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25">
