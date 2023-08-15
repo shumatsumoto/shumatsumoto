@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/shumatsumoto/react-search/assets/11171872/0193a8e2-a213-4db9-8a20-777dcbe9cc7c" width="240" />
+  <img src="https://github.com/shumatsumoto/react-search/assets/11171872/0193a8e2-a213-4db9-8a20-777dcbe9cc7c" width="210" />
 </div>
 
 <h3 align="center">Language / Framework</h3>
