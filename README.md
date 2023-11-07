@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Technology Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,babel,bootstrap,css,dart,django,docker,eclipse,electron,express,firebase,flask,flutter,gatsby,git,go,graphql,gulp,heroku,html,java,js,laravel,linux,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,postman,pug,py,rails,react,redux,ruby,rust,sass,spring,sqlite,tailwind,threejs,ts,unity,vercel,visualstudio,vite,vscode,vue,wasm,webpack,wordpress" />
 </div>
