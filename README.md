@@ -14,5 +14,10 @@
 
 <h2 align="center">Technology Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,babel,bootstrap,css,dart,django,docker,eclipse,electron,express,firebase,flask,flutter,gatsby,git,go,graphql,gulp,heroku,html,java,js,laravel,linux,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,postman,pug,py,rails,react,redux,ruby,rust,sass,spring,sqlite,tailwind,threejs,ts,unity,vercel,visualstudio,vite,vscode,vue,wasm,webpack,wordpress" width="563" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,babel,bash,blender,bootstrap,codepen,coffeescript,css,d3,dart,discord,django,docker,eclipse,electron,express,figma,firebase,flask,flutter,gatsby,git,github,githubactions,gitlab,go,graphql,gulp,heroku,html,ai,instagram,java,js,jquery,kubernetes,laravel,linux,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,ps,php,postgres,postman,powershell,pug,py,rails,react,redux,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,svelte,svg,tailwind,threejs,twitter,ts,unity,vercel,vim,visualstudio,vite,vscode,vue,wasm,webpack,wordpress,xd" width="563" />
+</div>
+
+<h2 align="center">Future plans</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,ansible,apollo,appwrite,arduino,astro,au,autocad,azul,azure,bevy,bsd,c,cs,cpp,crystal,cassandra,clojure,cloudflare,cmake,deno,devto,bots,dotnet,dynamodb,elixir,emacs,ember,emotion,fastapi,fediverse,forth,fortran,gamemakerstudio,gcp,gherkin,gradle,godot,grafana,gtk,haskell,haxe,haxeflixel,hibernate,idea,ipfs,jenkins,jest,kafka,kotlin,ktor,latex,linkedin,lit,lua,md,mastodon,matlab,maven,misskey,neovim,nim,ocaml,octave,openshift,openstack,perl,plan9,planetscale,pr,prisma,processing,prometheus,pytorch,qt,r,rabbitmq,raspberrypi,reactivex,redis,regex,remix,replit,rocket,rollupjs,ros,supabase,scala,selenium,sentry,sequelize,sketchup,solidity,solidjs,swift,symfony,tauri,tensorflow,unreal,v,vala,webflow,windicss,workers,zig" width="563" />
 </div>
