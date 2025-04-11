@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/shumatsumoto/react-search/assets/11171872/0193a8e2-a213-4db9-8a20-777dcbe9cc7c" width="190" />
+  <img src="https://github.com/user-attachments/assets/d4c08a96-b7f4-44de-9a33-f754ae4212a4" width="100" />
 </div>
 
 <h2 align="center">Activity</h2>
