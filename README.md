@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/efda9b87-c30a-437b-95cb-b0d7f98b2208" width="150" />
+  <img src="https://github.com/user-attachments/assets/bcea752e-d93f-4214-aa25-88892f8ca3a9" width="100" />
 </div>
 
 <h2 align="center">Activity</h2>
